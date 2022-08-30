@@ -4,7 +4,7 @@
 
 This repo contains code for CircuitPython implementation of the famous '[Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)'. It uses Adafruit's *adafruit_st7735r* library to draw the game on a  128x160 pixel color TFT LCD. This has been tested on Raspberry Pi Pico, here is a  video of the game in action:
 
-
+![Game of Life on  128x160 TFT LCD](game_of_life.gif)
 
 
 The code assumes you are using Raspberry Pi Pico and ST7735 based 120*160 pixel TFT LCD. The connections between the board and LCD are as follows:
