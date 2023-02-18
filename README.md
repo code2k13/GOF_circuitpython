@@ -17,7 +17,7 @@ The code assumes you are using Raspberry Pi Pico and ST7735 based 120*160 pixel 
 | 6                  | RESET              | GP17         |
 | 7                  | A0                 | GP16         |
 | 8                  | SDA                | GP11         |
-| 9                  | SCK                | GP10         |
+| 9                  | SCL                | GP10         |
 | 15                 | LED                | 3.3V         |
 
 
